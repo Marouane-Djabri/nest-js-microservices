@@ -1,4 +1,4 @@
-# NSPE Microservices Monorepo (Nx) — Detailed README
+# NSPE Microservices Monorepo (Nx)
 
 This repository demonstrates a lightweight Nx monorepo setup for multiple NestJS microservices. It is intentionally non-invasive: each service keeps its own folder and package.json, and the workspace uses Nx `run-commands` to orchestrate builds and starts.
 
